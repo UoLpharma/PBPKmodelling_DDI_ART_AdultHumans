@@ -1,10 +1,10 @@
-# University of Liverpool Pharmacology  - DDI ATZ RTV & RIF PBPK model
+# University of Liverpool Pharmacology  - DDI_ATZ_RTV_RIF
 
 ## Aim
 This PBPK model aims to simulate the drug-drug interactions (DDIs) between Rifampicin (RIF) and Ritonavir-boosted Atazanavir (ATV/r), focused on the main enzymes and transporters involved in these drugs metabolism. Furthermore, to provide simulations of potential dose adjustments to overcome the RIF induction effect.
 
 ## Drug
-The PBPK model was developed using in vitro data for the following drugs: Atazanavir (ATV), Ritonavir (RTV), and Rifampicin (RIF). RIF, used in the treatment of TB for patients coinfected with HIV, is a substrate and a potent inducer of cytochrome P-450 oxidative enzymes and the P-glycoprotein (P-gp) transport.  ATV, an HIV protease inhibitor (PIs), is a P-gp and CYP3A4 substrate extensively metabolized by the liver, and the co-administration of both drugs promotes a substantial decrease in ATV plasma concentration. RTV is a substrate of CYP3A and CYP2D6, additionally, it is a potent inhibitor of CYP3A. Moreover, it is considered a P-gp substrate and inhibitor. The coadministration of ATV/r improves the pharmacokinetic parameters and efficacy of ATV and, the virologic activity, decreasing the genetic resistance.Rilpivirine (RPV) is metabolised by CYP3A4 whereas cabotegravir (CAB) is metabolised by UGT1A1 and UGT1A9, on top of its minor renal elimination.
+The PBPK model was developed using in vitro data for the following drugs: Atazanavir (ATV), Ritonavir (RTV), and Rifampicin (RIF). RIF, used in the treatment of TB for patients coinfected with HIV, is a substrate and a potent inducer of cytochrome P-450 oxidative enzymes and the P-glycoprotein (P-gp) transport.  ATV, an HIV protease inhibitor (PIs), is a P-gp and CYP3A4 substrate extensively metabolized by the liver, and the co-administration of both drugs promotes a substantial decrease in ATV plasma concentration. RTV is a substrate of CYP3A and CYP2D6, additionally, it is a potent inhibitor of CYP3A. Moreover, it is considered a P-gp substrate and inhibitor. The coadministration of ATV/r improves the pharmacokinetic parameters and efficacy of ATV and, the virologic activity, decreasing the genetic resistance.
 
 ## PBPK model
 The model was designed using Simbiology® v.5.8.2, a product of MATLAB® v.R2019a (MathWorks, Natick, MA, USA 2019). The detailed methodology is described in the published manuscript entitled: Predicting Drug-Drug Interactions between Rifampicin and Ritonavir-Boosted Atazanavir Using PBPK Modelling, Clinical Pharmacokinetics - DOI: 10.1007/s40262-021-01067-1.
@@ -16,26 +16,8 @@ The drug dosages used to validate the model were ATZ 300 mg twice-daily, RIF 600
 Two clinical studies, Acosta et al., (2007) and Burger et al., (2006) were used to obtain the observed clinical data.  Clinical data are available for RVP (Janssen’s report) and CAB (J.S.B. Shaik-A phase I study to evaluate the PK and safety-ACCP-2019) in liver disease conditions.
 
 ## Conferences/Manuscript
-
 This model was presented as a poster on “20th International Workshop on Clinical Pharmacology of HIV, Hepatitis & Other Antiviral Drugs”, May 2019 – Netherlands. 
-Manuscript – submitting process.
-
-
-## Installation
- Place holder for Information on how to install the models 
- 
-## Code of Conduct
- Place holder 
-
-## Contribution
-We encourage contribution to the University of Liverpool PBPK model repositiry community. Before getting started please read the contribution guidelines. If you are contributing code, please be familiar with the coding standards.
-
-## Contacts
-  Place holder
-  
-## License
-University of Liverpool Pharmacology PBPK model repository is released under the GPLv2 License.
-All trademarks within this document belong to their legitimate owners.
+Accepted manuscript - Predicting Drug-Drug Interactions between Rifampicin and Ritonavir-Boosted Atazanavir Using PBPK Modelling, Clinical Pharmacokinetics - DOI: 10.1007/s40262-021-01067-1 
 
 ## Reference
 Manosuthi, W., Wiboonchutikul, S., & Sungkanuparph, S. (2016). Integrated therapy for HIV and tuberculosis. AIDS research and therapy, 13(1), 22.
