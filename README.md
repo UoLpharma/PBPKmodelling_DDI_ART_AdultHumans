@@ -13,8 +13,8 @@ The model was designed using Simbiology® v.5.8.2, a product of MATLAB® v.R2019
 The drug dosages used to validate the model were ATZ 300 mg twice-daily, RIF 600 mg once-daily, ATV/RTV 300/100 mg once-daily, and ATV/RTV/RIF 300/100/600 once-daily, as described in the clinical studies. To simulate dose adjustments to overcome the DDIs, dosages of 300/100, 300/200, 400/100, 400/200, 600/100, and 600/200 of ATV/RTV twice-daily were used.
 
 ## Clinical data set
-Two clinical studies, Acosta et al., (2007) and Burger et al., (2006) were used to obtain the observed clinical data.  Clinical data are available for RVP (Janssen’s report) and CAB (J.S.B. Shaik-A phase I study to evaluate the PK and safety-ACCP-2019) in liver disease conditions.
-
+Two clinical studies, Acosta et al., (2007) and Burger et al., (2006) were used to obtain the observed clinical data.
+  
 ## Conferences/Manuscript
 This model was presented as a poster on “20th International Workshop on Clinical Pharmacology of HIV, Hepatitis & Other Antiviral Drugs”, May 2019 – Netherlands. 
 Accepted manuscript - Predicting Drug-Drug Interactions between Rifampicin and Ritonavir-Boosted Atazanavir Using PBPK Modelling, Clinical Pharmacokinetics - DOI: 10.1007/s40262-021-01067-1 
